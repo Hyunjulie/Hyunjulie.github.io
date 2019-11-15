@@ -73,7 +73,7 @@ figure {
     font-size: 16px;
     width: 80%;
     margin: 20px auto 0px auto;
-    color: #ebd9a9;
+    color: #b3b3b3;
     font-style: italic;
     font-family: "Quicksand", Arial, sans-serif; }
     @media screen and (max-width: 480px) {
@@ -398,7 +398,7 @@ body.offcanvas {
     -o-transform: translateX(0);
     transform: translateX(0);
     width: 300px;
-    background-color: #ebd9a9;
+    background-color: #f2f3f7;
     z-index: 999;
     position: fixed; }
   body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
@@ -617,7 +617,7 @@ margin-left: 10px;}
   content: "\e114"; }
 
 .panel-heading a.collapsed {
-  background: #ebd9a9;
+  background: #f2f3f7;
   border: 1px solid #e6e6e6 !important;
   color: #333333; }
 
@@ -649,7 +649,7 @@ margin-left: 10px;}
   position: absolute;
   display: block;
   width: 4px;
-  background: #ebd9a9;
+  background: #f2f3f7;
   top: 20px;
   bottom: 20px;
   margin-left: 29px; }
@@ -675,9 +675,9 @@ margin-left: 10px;}
   -ms-border-radius: 50%;
   border-radius: 50%;
   text-align: center;
-  -moz-box-shadow: 0 0 0 5px #ebd9a9;
-  -webkit-box-shadow: 0 0 0 5px #ebd9a9;
-  box-shadow: 0 0 0 5px #ebd9a9;
+  -moz-box-shadow: 0 0 0 5px #f2f3f7;
+  -webkit-box-shadow: 0 0 0 5px #f2f3f7;
+  box-shadow: 0 0 0 5px #f2f3f7;
   line-height: 40px;
   float: left; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon i {
@@ -698,7 +698,7 @@ margin-left: 10px;}
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label {
   position: relative;
-  background: #ebd9a9;
+  background: #f2f3f7;
   padding: 1.5em;
   margin-left: 60px;
   -webkit-background-clip: padding-box;
@@ -713,7 +713,7 @@ margin-left: 10px;}
   height: 0;
   border-style: solid;
   border-width: 9px 9px 9px 0;
-  border-color: transparent #ebd9a9 transparent transparent;
+  border-color: transparent #f2f3f7 transparent transparent;
   left: 0;
   top: 10px;
   margin-left: -9px; }
@@ -861,7 +861,7 @@ margin-left: 10px;}
   height: 6px;
   -webkit-box-shadow: none;
   box-shadow: none;
-  background: #ebd9a9;
+  background: #f2f3f7;
   overflow: visible; }
 
 .progress-bar {
@@ -969,7 +969,7 @@ padding-top: 2px;}
     height: 50px;
     display:table;
     text-align: center;
-    background: #ebd9a9;
+    background: #f2f3f7;
     -webkit-border-radius: 2px;
     -moz-border-radius: 2px;
     -ms-border-radius: 2px;
@@ -1426,7 +1426,7 @@ align-items: stretch;}
   box-shadow: none;
   background: transparent;
   border: transparent;
-  background: #ebd9a9;
+  background: #f2f3f7;
   height: 54px;
   font-size: 16px;
   font-weight: 400;
