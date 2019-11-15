@@ -7,8 +7,8 @@
 
 /* =======================================================
 *
-* 	Template Style 
-*	Edit this section
+*   Template Style 
+* Edit this section
 *
 * ======================================================= */
 body {
@@ -117,7 +117,7 @@ figure {
       -o-transform: translateX(-300px);
       transform: translateX(-300px);
       padding-top: 4em;
-	  background-color: #ebd9a9;
+    background-color: #ebd9a9;
         height: auto;
       } }
   #colorlib-aside .author-img {
@@ -953,7 +953,7 @@ padding-top: 2px;}
     .progress-bar.color-9 span {
       color: #a84cb8; }
 .progress-wrap h3{
-	padding-bottom: 14px;
+  padding-bottom: 14px;
 }
 .colorlib-feature {
   text-align: left;
